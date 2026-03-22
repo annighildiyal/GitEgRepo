@@ -1,5 +1,15 @@
 //bud 1
 function a(){}
 
+<<<<<<< Updated upstream
 bug 5
 function g(){}
+=======
+
+bug 2
+function b(){}
+
+
+bug 3
+Function c(){}
+>>>>>>> Stashed changes
