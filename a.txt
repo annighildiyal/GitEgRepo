@@ -1,2 +1,5 @@
 //bud 1
 function a(){}
+
+bug 5
+function g(){}
